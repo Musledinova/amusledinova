@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:cucumber-gherkin-vintage:5.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin-vintage/5.6.0/5df7a6be1f3732638cbdb9dab1dc0fb0c2d24390/cucumber-gherkin-vintage-5.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin-vintage/5.6.0/705f628548548dd89a728c0bc69df71b73f0f941/cucumber-gherkin-vintage-5.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
